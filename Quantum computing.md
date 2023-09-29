@@ -1,6 +1,3 @@
-
-### Degree :2
-
 ### Resources
 
 - [Qiskit](https://youtu.be/NZD9APb7ZtY?si=3MWT21eqa_hCredp)

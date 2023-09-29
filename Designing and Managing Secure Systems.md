@@ -1,5 +1,3 @@
-### Degree:3
-
 ### Resources
 
 - [cissp-kindaOutdated](https://youtu.be/M1_v5HBVHWo?si=MHKcG9XId70Usxoc)

@@ -1,6 +1,3 @@
-
-### Degree :3
-
 ### Resources
 
 
