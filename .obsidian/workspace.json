@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0569e37b75920439",
+        "id": "3abf296246a5dcdf",
         "type": "tabs",
         "children": [
           {
-            "id": "6f66b2b3156b7123",
+            "id": "8f6b8590ba0a2abd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Designing and Managing Secure Systems.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designing and Managing Secure Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Designing and Managing Secure Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Designing and Managing Secure Systems.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f66b2b3156b7123",
+  "active": "8f6b8590ba0a2abd",
   "lastOpenFiles": [
     "security-engineering-a-guide-to-building-dependable-distributed-systems.pdf",
+    "Understanding Sockets _ DigitalOcean_files/communitySearchButton.35037783.svg",
+    "Unix System Administration.md",
     "Designing and Managing Secure Systems.md",
     "SecureSystems.pdf",
     "secureSystems2.pdf",
     "Quantum computing.md",
-    "Unix System Administration.md",
     "Advanced cryptography.md",
     "Ai and cyber security.md",
     "Augmented and Virtual Reality.md",
