@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7180d9408359b570",
+        "id": "0569e37b75920439",
         "type": "tabs",
         "children": [
           {
-            "id": "489d2c127253877c",
+            "id": "6f66b2b3156b7123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix System Administration.md",
+                "file": "Designing and Managing Secure Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unix System Administration.md",
+                "file": "Designing and Managing Secure Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unix System Administration.md",
+                "file": "Designing and Managing Secure Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix System Administration.md"
+                "file": "Designing and Managing Secure Systems.md"
               }
             }
           }
@@ -146,19 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "489d2c127253877c",
+  "active": "6f66b2b3156b7123",
   "lastOpenFiles": [
+    "security-engineering-a-guide-to-building-dependable-distributed-systems.pdf",
+    "Designing and Managing Secure Systems.md",
+    "SecureSystems.pdf",
+    "secureSystems2.pdf",
+    "Quantum computing.md",
+    "Unix System Administration.md",
     "Advanced cryptography.md",
     "Ai and cyber security.md",
     "Augmented and Virtual Reality.md",
     "Computer aided verification.md",
     "cyber crime.md",
-    "Designing and Managing Secure Systems.md",
-    "Quantum computing.md",
-    "Unix System Administration.md",
     "cyberSecurityAndAi.pdf",
-    "secureSystems2.pdf",
-    "SecureSystems.pdf",
     "Unconfirmed 217434.crdownload"
   ]
 }
