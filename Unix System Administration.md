@@ -12,7 +12,12 @@
 - [file-structure](https://youtu.be/A3G-3hp88mo?si=9qVUGH9sa5ANnGl_)
 - [user-managment](https://youtu.be/jwnvKOjmtEA?si=GIAlJLRZAETvnYHO)
 - [pakageManagment](https://youtu.be/vX3krP6JmOY?si=fDvSvaalgKkWLbnn)
-- [process-management](https://youtu.be/wOWhfNB_r-0?si=Bw2CiTIT4WwIPzKa)
+- [services-management](https://youtu.be/wOWhfNB_r-0?si=Bw2CiTIT4WwIPzKa)
+- [process-management](https://youtu.be/LfC6pv8VISk?si=VGswl0eb3Y6xcNcD)
+- [systemd-1](https://youtu.be/Kzpm-rGAXos?si=iohWrFb7_rLE4_DP)
+- [systemd-2](https://youtube.com/playlist?list=PLtK75qxsQaMKPbuVpGuqUQYRiTwTAmqeI&si=3QG7sNnmBKP8EJC0)
+- [unit-files](https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files)
+- [create-unit-file](https://youtu.be/fYQBvjYQ63U?si=uFubQgXuiTVPmzcx)
 
 
 ## Topics
@@ -36,15 +41,16 @@
   - [x] Managing user privileges and groups
   - [x] Password policies and authentication methods
 
+- [x] Process and service Management
+  - [x] Viewing and managing processes (ps, top, kill, etc.)
+  - [x] Understanding process priorities (nice, renice)
+  - [x] Job control (bg, fg, jobs)
+  - [x] systmd work
+
 - [ ] File System Management
   - [ ] Mounting and unmounting file systems
   - [ ] Disk partitioning with tools like fdisk or GParted
   - [ ] File system maintenance and repair (e.g., fsck)
-
-- [ ] Process Management
-  - [ ] Viewing and managing processes (ps, top, kill, etc.)
-  - [ ] Understanding process priorities (nice, renice)
-  - [ ] Job control (bg, fg, jobs)
 
 - [ ] Shell Scripting
   - [ ] Writing and executing shell scripts (Bash scripting)
