@@ -51,6 +51,7 @@
   - [ ] Mounting and unmounting file systems
   - [ ] Disk partitioning with tools like fdisk or GParted
   - [ ] File system maintenance and repair (e.g., fsck)
+  - [ ] mount unit files
 
 - [ ] Shell Scripting
   - [ ] Writing and executing shell scripts (Bash scripting)

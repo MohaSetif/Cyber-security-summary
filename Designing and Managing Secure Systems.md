@@ -7,7 +7,7 @@
 
 ## Topics (based on ross-aderson book)
 
-- [ ] Chapter 1: What is Security Engineering?
+- [x] Chapter 1: What is Security Engineering?
 - [ ] Chapter 2: Who is the Opponent?
 - [ ] Chapter 3: Psychology and Usability
 - [ ] Chapter 4: Protocols
@@ -36,3 +36,6 @@
 - [ ] Chapter 27: Secure Systems Development
 - [ ] Chapter 28: Assurance and Sustainability
 - [ ] Chapter 29: Beyond 'Computer Says No'
+
+
+## What is security engineering

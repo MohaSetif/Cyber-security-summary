@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f6b8590ba0a2abd",
+            "id": "cdb235e36d02395a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Advanced cryptography.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Advanced cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Advanced cryptography.md"
+              }
             }
           }
         ]
@@ -138,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f6b8590ba0a2abd",
+  "active": "cdb235e36d02395a",
   "lastOpenFiles": [
-    "security-engineering-a-guide-to-building-dependable-distributed-systems.pdf",
-    "Understanding Sockets _ DigitalOcean_files/communitySearchButton.35037783.svg",
     "Unix System Administration.md",
     "Designing and Managing Secure Systems.md",
+    "security-engineering-a-guide-to-building-dependable-distributed-systems.pdf",
+    "Understanding Sockets _ DigitalOcean_files/communitySearchButton.35037783.svg",
     "SecureSystems.pdf",
     "secureSystems2.pdf",
     "Quantum computing.md",
