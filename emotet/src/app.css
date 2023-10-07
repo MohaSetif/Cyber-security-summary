@@ -1,0 +1,116 @@
+:root {
+	/* markdown font sizes*/
+
+	/* regular headers*/
+
+	--body: clamp(1.4rem, calc(1.4rem + ((1vw - 0.48rem) * 0.3472)), 1.775rem);
+	--h1: clamp(3rem, calc(3rem + ((1vw - 0.48rem) * 1.3889)), 4.2rem);
+	--h2: clamp(2.4rem, calc(2.4rem + ((1vw - 0.48rem) * 1.3889)), 3.6rem);
+	--h3: clamp(1.7rem, calc(1.7rem + ((1vw - 0.48rem) * 0.5208)), 2.075rem);
+	--h4: clamp(1.4rem, calc(1.4rem + ((1vw - 0.48rem) * 0.3472)), 1.775rem);
+
+	--lh1: 1.3;
+	--lh2: 1.35;
+	--lh3: 1.4;
+	--lh4: 1.5;
+	--lhbody: 1.6;
+
+	/*default colors */
+	--primary800: #3c9ee1;
+	--primary400: #3c9fe17a;
+	--primary100: #3c9fe118;
+	--font: #f0e8e8;
+	--bg: #152038;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+	width: 0.5rem;
+}
+::-webkit-scrollbar-track {
+	border-radius: 12px;
+	background: var(--primary100);
+}
+::-webkit-scrollbar-thumb {
+	border-radius: 12px;
+	background: var(--primary800);
+}
+
+html {
+	scroll-behavior: smooth;
+	overflow-x: hidden;
+}
+
+body {
+	background-color: var(--bg);
+	color: var(--font);
+}
+
+button {
+	width: fit-content;
+	height: fit-content;
+	border: none;
+	outline: none;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: var(--body);
+	line-height: var(--lhbody);
+	color: var(--font);
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	color: var(--font);
+}
+
+h1 {
+	font-size: var(--h1);
+	line-height: var(--lh1);
+	margin-top: 1.4rem;
+	margin-bottom: 1.2rem;
+}
+h2 {
+	font-size: var(--h2);
+	line-height: var(--lh2);
+	margin-top: 1.2rem;
+	margin-bottom: 1rem;
+}
+h3 {
+	font-size: var(--h3);
+	line-height: var(--lh3);
+	margin-top: 1rem;
+	margin-bottom: 0.8rem;
+}
+h4 {
+	margin-top: 0.8rem;
+	margin-bottom: 0.6rem;
+	font-size: var(--h4);
+	line-height: var(--lh4);
+}
+
+p,
+span,
+a,
+li,
+code {
+	font-family: 'Source Sans 3', sans-serif;
+	font-size: var(--body);
+	line-height: var(--lhbody);
+	font-weight: 400;
+	white-space: normal;
+	color: var(--font);
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+}

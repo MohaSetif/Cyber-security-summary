@@ -8,12 +8,12 @@
 
 ## Topics
 
-- [ ] **Introduction to Cryptography**
+- [x] **Introduction to Cryptography**
   - [ ] Overview of cryptography's history and significance
   - [ ] Basic principles of encryption and decryption
   - [ ] Symmetric vs. asymmetric encryption
 
-- [ ] **Symmetric-Key Encryption**
+- [x] **Symmetric-Key Encryption**
   - [ ] Study of symmetric encryption algorithms (e.g., DES, AES)
   - [ ] Mathematical foundations and operations
   - [ ] Block cipher modes of operation (e.g., ECB, CBC)

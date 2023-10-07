@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3abf296246a5dcdf",
+        "id": "01411b6b7edd7f24",
         "type": "tabs",
         "children": [
           {
-            "id": "cdb235e36d02395a",
+            "id": "1b2976eb5344cd81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced cryptography.md",
+                "file": "emotet/static/sections/Propagation Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced cryptography.md",
+                "file": "emotet/static/sections/Propagation Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced cryptography.md",
+                "file": "emotet/static/sections/Propagation Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced cryptography.md"
+                "file": "emotet/static/sections/Propagation Methods.md"
               }
             }
           }
@@ -146,21 +146,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdb235e36d02395a",
+  "active": "1b2976eb5344cd81",
   "lastOpenFiles": [
-    "Unix System Administration.md",
-    "Designing and Managing Secure Systems.md",
-    "security-engineering-a-guide-to-building-dependable-distributed-systems.pdf",
-    "Understanding Sockets _ DigitalOcean_files/communitySearchButton.35037783.svg",
-    "SecureSystems.pdf",
-    "secureSystems2.pdf",
-    "Quantum computing.md",
-    "Advanced cryptography.md",
-    "Ai and cyber security.md",
-    "Augmented and Virtual Reality.md",
-    "Computer aided verification.md",
-    "cyber crime.md",
-    "cyberSecurityAndAi.pdf",
-    "Unconfirmed 217434.crdownload"
+    "emotet/static/nmap.png",
+    "emotet/static/sections/Modular Architecture and Botnet Infrastructure.md",
+    "emotet/static/sections/Propagation Methods.md",
+    "emotet/static/sections/Introduction and History.md",
+    "emotet/vite.config.ts.timestamp-1696668606730-1bdcf44f27219.mjs",
+    "emotet/static/sections/Prerequisites.md",
+    "emotet/README.md",
+    "emotet/static/c2_server.png",
+    "excel.png.md",
+    "emotet/static/excel.png.crdownload",
+    "emotet/static/excel.png",
+    "emotet/security/propagation/~$test.xlsm",
+    "emotet/static/timeline.png",
+    "emotet/static/timeline.png.crdownload",
+    "emotet/security/evasion/codeFlowFlattening.js",
+    "emotet/security/evasion/a.exe",
+    "emotet/security/evasion/processHollowing.c++",
+    "emotet/security/bot_Infrastructure/index.js",
+    "emotet/security/propagation/mal.txt",
+    "emotet/security/evasion",
+    "emotet/static/test.png",
+    "emotet/static/2023-10-04 (1).png",
+    "emotet/node_modules/rimraf/README.md",
+    "emotet/node_modules/rimraf/CHANGELOG.md",
+    "emotet/node_modules/nanoid/README.md",
+    "emotet/node_modules/cssesc/README.md",
+    "emotet/node_modules/svelte-check/README.md",
+    "emotet/node_modules/@sveltejs/adapter-auto/README.md",
+    "emotet/node_modules/@jridgewell/trace-mapping/README.md",
+    "emotet/node_modules/@jridgewell/sourcemap-codec/README.md",
+    "emotet/node_modules/@jridgewell/set-array/README.md",
+    "emotet/node_modules/@jridgewell/resolve-uri/README.md",
+    "emotet/node_modules/@jridgewell/gen-mapping/README.md",
+    "emotet/node_modules/@esbuild/win32-x64/README.md",
+    "emotet/node_modules/@ampproject/remapping/README.md",
+    "emotet/node_modules/@aashutoshrathi/word-wrap/README.md",
+    "emotet/static/docs/Introduction and History.md",
+    "emotet/node_modules/source-map-js/README.md",
+    "emotet/node_modules/source-map-js/CHANGELOG.md",
+    "emotet/node_modules/@eslint-community/regexpp/README.md",
+    "emotet/node_modules/reusify/README.md",
+    "Understanding Sockets _ DigitalOcean_files/communitySearchButton.35037783.svg"
   ]
 }
