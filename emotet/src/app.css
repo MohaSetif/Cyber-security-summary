@@ -21,6 +21,20 @@
 	--primary100: #3c9fe118;
 	--font: #f0e8e8;
 	--bg: #152038;
+
+	/* Code Effect */
+	--background-light-rgb: 30 41 59;
+	
+	--border-rgb: 255 255 255;
+	--border: 1px solid rgb(var(--border-rgb) / 20%);
+	
+	--emotet-main-rgb: 41 121 255;
+	--emotet-main-light-rgb: 56 182 255;
+	--emotet-secondary-rgb: 42 252 152;
+	  
+	--card-size: 480px;
+	--font-size: 0.8rem;
+	--logo-size: calc(var(--card-size) * 0.3);
 }
 
 * {
